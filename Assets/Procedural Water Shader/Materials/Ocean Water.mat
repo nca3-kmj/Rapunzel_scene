@@ -61,42 +61,42 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Absorption: 1.8
+    - _Absorption: 3.31
     - _BumpScale: 1
     - _Cutoff: 0.5
-    - _DepthAlphaBoost: 0.85
-    - _DepthMax: 18
+    - _DepthAlphaBoost: 1.541
+    - _DepthMax: 35.6
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _EdgeFade: 0.55
-    - _EdgeFoamIntensity: 1.2
-    - _EdgeFoamThreshold: 0.06
-    - _EdgeFoamWidth: 2
-    - _FoamCrestIntensity: 1.8
-    - _FoamCrestThreshold: 0.18
-    - _FoamIntensity: 1.6
+    - _EdgeFade: 3.32
+    - _EdgeFoamIntensity: 1.25
+    - _EdgeFoamThreshold: 0.197
+    - _EdgeFoamWidth: 4.79
+    - _FoamCrestIntensity: 2.18
+    - _FoamCrestThreshold: 0.94
+    - _FoamIntensity: 2.56
     - _FoamNoiseScale: 0.75
-    - _FoamNoiseSpeed: 1.25
-    - _FresnelBias: 0.06
-    - _FresnelPower: 3.2
-    - _FresnelScale: 1.6
-    - _GerstnerIntensity: 1.25
+    - _FoamNoiseSpeed: 3.32
+    - _FresnelBias: 0.638
+    - _FresnelPower: 5.53
+    - _FresnelScale: 1.51
+    - _GerstnerIntensity: 1.3
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Metallic: 0
-    - _MinAlpha: 0.12
+    - _MinAlpha: 0.329
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _Opacity: 0.95
+    - _Opacity: 0.385
     - _Parallax: 0.02
     - _RefractionDistort: 0.35
-    - _RefractionStrength: 0.8
-    - _RippleScale: 0.45
-    - _RippleSpeed: 1.2
+    - _RefractionStrength: 0.584
+    - _RippleScale: 20
+    - _RippleSpeed: 2.81
     - _RippleStrength: 0.65
-    - _Shininess: 90
-    - _ShoreDepth: 2.2
+    - _Shininess: 83
+    - _ShoreDepth: 3.92
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -123,3 +123,4 @@ Material:
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 0.54901963}
     - _WorldLightDir: {r: 0.25, g: 0.85, b: -0.35, a: 0}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
